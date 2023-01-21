@@ -1,0 +1,93 @@
+
+/* Your CSS Code here. */
+.box {
+    position: relative;
+ }
+ img {
+    width: 20%;
+    height: 15%;
+    opacity: 100;
+ }
+ .direction {
+    position: absolute;
+    top: 20px;
+    left: 19px;
+    font-size: 13px;
+ }
+ .picright{
+   position: absolute;
+   width: 300px;
+   height: 261px;
+   left: 735px;
+   top: 180px;
+   
+ }
+ .pic{
+   position: absolute;
+   width: 300px;
+   height: 261px;
+   left: 1069px;
+   top: 180px;
+ }
+ .picone{
+   position: absolute;
+width: 634px;
+height: 560px;
+left: 67px;
+top: 180px;
+ }
+ .pictwo{
+   position: absolute;
+width: 634px;
+height: 238px;
+left: 67px;
+top: 771px;
+
+ }
+ .picrt{
+   position: absolute;
+width: 300px;
+height: 261px;
+left: 735px;
+top: 479px;
+
+ }
+ .picrtt{
+   position: absolute;
+width: 300px;
+height: 261px;
+left: 1069px;
+top: 479px;
+ }
+ .picd{
+   position: absolute;
+width: 634px;
+height: 238px;
+left: 735px;
+top: 771px;
+ }
+.ReadMore{
+   position: absolute;
+   z-index: 3; /* gray box will be above both green and black box */
+   background: lightgray;
+   height: 60px;  
+   width: 70%;
+   left: 50px;
+   top: 50px;
+   position: absolute;
+width: 276px;
+height: 51px;
+left: 1093px;
+top: 942px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 51px;
+   
+}
+.container {
+   position: relative;
+ }
+ 
